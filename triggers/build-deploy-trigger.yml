@@ -37,7 +37,7 @@ spec:
         params:
           - name: url
             # Replace <docker_registry_name> with your docker registry name (e.g. my-acr.azurecr.io)
-            value: "aao-image-repo"
+            value: 064646443506.dkr.ecr.eu-west-1.amazonaws.com/aao-image-repo
         type: image
     - apiVersion: tekton.dev/v1alpha1
       kind: PipelineRun
