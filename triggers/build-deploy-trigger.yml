@@ -115,5 +115,5 @@ spec:
             backend:
               service:
                 name: el-tekton-argocd-example-build-el
-                # port:
-                #   number: 8080
+                port:
+                  number: 8080
