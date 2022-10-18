@@ -2,4 +2,4 @@
 apiVersion: v1
 kind: Namespace
 metadata:
-  name: tekton-argocd-apps
+  name: tekton-argocd-example
